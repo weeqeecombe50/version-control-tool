@@ -7,7 +7,8 @@ Vielen Dank, dass Sie zur Verbesserung unseres Projekts beitragen möchten!
 2. Erstellen Sie einen neuen Branch für Ihre Änderungen.
 3. Nehmen Sie Ihre Änderungen vor und committen Sie sie mit einer klaren Beschreibung.
 4. Stellen Sie sicher, dass Ihr Code formatiert ist und in Übereinstimmung mit unseren Projektstandards steht.
-5. Öffnen Sie einen Pull-Request und warten Sie auf Feedback.
+5. Führen Sie alle notwendigen Tests durch, bevor Sie Ihre Änderungen einreichen.
+6. Öffnen Sie einen Pull-Request und warten Sie auf Feedback.
 
 ## Verhaltenskodex
 Wir erwarten von allen Mitwirkenden, dass sie einen respektvollen und konstruktiven Umgang wahren. Beiträge, die diese Grundsätze verletzen, können abgelehnt werden.
