@@ -1,4 +1,4 @@
-# Beiträge zu Version Control Tool
+# Beiträge zum Version Control Tool
 
 Vielen Dank, dass Sie zur Verbesserung unseres Projekts beitragen möchten!
 
@@ -8,7 +8,7 @@ Vielen Dank, dass Sie zur Verbesserung unseres Projekts beitragen möchten!
 3. Nehmen Sie Ihre Änderungen vor und committen Sie sie mit einer klaren Beschreibung.
 4. Öffnen Sie einen Pull-Request.
 
-## Code of Conduct
+## Verhaltenskodex
 Wir erwarten von allen Mitwirkenden, dass sie einen respektvollen und konstruktiven Umgang wahren.
 
 Vielen Dank für Ihren Beitrag!
