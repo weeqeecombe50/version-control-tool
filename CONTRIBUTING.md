@@ -6,9 +6,9 @@ Vielen Dank, dass Sie zur Verbesserung unseres Projekts beitragen möchten!
 1. Forken Sie das Repository.
 2. Erstellen Sie einen neuen Branch für Ihre Änderungen.
 3. Nehmen Sie Ihre Änderungen vor und committen Sie sie mit einer klaren Beschreibung.
-4. Öffnen Sie einen Pull-Request.
+4. Öffnen Sie einen Pull-Request und warten Sie auf Feedback.
 
 ## Verhaltenskodex
-Wir erwarten von allen Mitwirkenden, dass sie einen respektvollen und konstruktiven Umgang wahren.
+Wir erwarten von allen Mitwirkenden, dass sie einen respektvollen und konstruktiven Umgang wahren. Beiträge, die diese Grundsätze verletzen, können abgelehnt werden.
 
 Vielen Dank für Ihren Beitrag!
