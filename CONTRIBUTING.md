@@ -10,7 +10,7 @@ Vielen Dank, dass Sie zur Verbesserung unseres Projekts beitragen möchten!
 5. Öffnen Sie einen Pull-Request und warten Sie auf Feedback.
 
 ## Verhaltenskodex
-Wir erwarten von allen Mitwirkenden, dass sie einen respetvollen und konstruktiven Umgang wahren. Beiträge, die diese Grundsätze verletzen, können abgelehnt werden.
+Wir erwarten von allen Mitwirkenden, dass sie einen respektvollen und konstruktiven Umgang wahren. Beiträge, die diese Grundsätze verletzen, können abgelehnt werden.
 
 ## Zusätzliche Hinweise
 Bitte führen Sie vor dem Einreichen Ihrer Änderungen Tests durch.
