@@ -1,4 +1,4 @@
-console.log('Willkommen zum Version Control Tool!');
+console.log('Willkommen zum Versionskontrollwerkzeug!');
 
 const versionControlTool = {
     branches: {},
