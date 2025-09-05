@@ -12,6 +12,6 @@ Vielen Dank, dass Sie zur Verbesserung unseres Projekts beitragen möchten!
 Wir erwarten von allen Mitwirkenden, dass sie einen respektvollen und konstruktiven Umgang wahren. Beiträge, die diese Grundsätze verletzen, können abgelehnt werden.
 
 ## Zusätzliche Hinweise
-Bitte stellen Sie sicher, dass Ihr Code in Übereinstimmung mit unseren Projektstandards steht, und führen Sie vor dem Einreichen Ihrer Änderungen Tests durch.
+Bitte stellen Sie sicher, dass Ihr Code in Übereinstimmung mit unseren Projektstandards steht. Führen Sie außerdem vor dem Einreichen Ihrer Änderungen Tests durch.
 
 Vielen Dank für Ihren Beitrag!
